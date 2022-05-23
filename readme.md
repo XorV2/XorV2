@@ -1,18 +1,18 @@
-||Programming||
+Programming
 -------------
 python - intermediate
 
 to be continued.
 -------------
 
-||Socials||
+Socials
 -------------
 discord - rooben#8551
 
 to be continued.
 -------------
 
-||Interests||
+Interests
 -------------
 socket programming - intermediate
 AI - beginner
