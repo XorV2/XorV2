@@ -8,4 +8,4 @@
   - You don't.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XorV2&layout=compact&hide=scss,sass,css,html)](https://github.com/XorV2)
-[![bye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XorV2)]
+[![bye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XorV2)](https://bye.omg.lol)
